@@ -1,0 +1,9 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const connectButton = document.getElementById('connectButton');
+    
+    connectButton.addEventListener('click', function() {
+        // Add your social media integration logic here
+        // For example, you could open a pop-up window for users to connect their accounts
+        // You may need to use OAuth or other APIs depending on the social media platforms you want to integrate
+    });
+});
